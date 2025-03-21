@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jassime Rahamoui</h1>
-<h3 align="center">Étudiant en **Tek1 à Epitech**</h3>
+<h3 align="center">A Tek1 student at Epitech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4ssr&label=Profile%20views&color=0e75b6&style=flat" alt="j4ssr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j4ssr" alt="j4ssr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/j4ssr_" target="blank"><img src="https://img.shields.io/twitter/follow/j4ssr_?logo=twitter&style=for-the-badge" alt="j4ssr_" /></a> </p>
+
+- 🔭 I’m currently working on **Astralis**
+
+- 🌱 I’m currently learning **C and Node.js**
+
+- 📫 How to reach me **jassime.rahmaoui@gmail.com**
+
+- ⚡ Fun fact **I am nice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
