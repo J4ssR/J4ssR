@@ -3,11 +3,6 @@
 <h3 align="center">A Tek1 student at Epitech</h3>
 <img align="right" alt="Coding" width="400" src="file:///home/jassime/Downloads/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon%20(3)/971.jpg">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j4ssr&label=Profile%20views&color=0e75b6&style=flat" alt="j4ssr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/j4ssr_" target="blank"><img src="https://img.shields.io/twitter/follow/j4ssr_?logo=twitter&style=for-the-badge" alt="j4ssr_" /></a> </p>
-
 - 🔭 I’m currently working on **Astralis**
 
 - 🌱 I’m currently learning **C and Node.js**
@@ -32,4 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4ssr&show_icons=true&locale=en" alt="j4ssr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j4ssr&" alt="j4ssr" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j4ssr&label=Profile%20views&color=0e75b6&style=flat" alt="j4ssr" /> </p>
+
+<p align="left"> <a href="https://twitter.com/j4ssr_" target="blank"><img src="https://img.shields.io/twitter/follow/j4ssr_?logo=twitter&style=for-the-badge" alt="j4ssr_" /></a> </p>
 
