@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jassime Rahamoui</h1>
 <h3 align="center">A Tek1 student at Epitech</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="file:///home/jassime/Downloads/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon%20(3)/971.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4ssr&label=Profile%20views&color=0e75b6&style=flat" alt="j4ssr" /> </p>
