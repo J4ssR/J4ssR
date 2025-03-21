@@ -1,7 +1,6 @@
-[![MasterHead(https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jassime Rahamoui</h1>
 <h3 align="center">A Tek1 student at Epitech</h3>
-<img align="right" alt="Coding" width="400" src="file:///home/jassime/Downloads/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon%20(3)/971.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 - 🔭 I’m currently working on **Astralis**
 
